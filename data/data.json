@@ -1,0 +1,3491 @@
+{
+ "generated_at": "2026-08-09T17:03:42",
+ "source_file": "UWANT_price_report_2026-08-09_updated.xlsx",
+ "title": "דוח ניטור מחירי UWANT — 09.08.2026 09:01 (Asia/Jerusalem)",
+ "checked_at": "דוח ניטור מחירי UWANT — 09.08.2026 09:01 (Asia/Jerusalem)",
+ "report_date": "2026-08-09",
+ "sites": [
+  {
+   "id": "ksp",
+   "name": "KSP",
+   "uwant_url": "https://ksp.co.il/web/search/UWANT"
+  },
+  {
+   "id": "walla",
+   "name": "Walla Shops",
+   "uwant_url": "https://www.wallashops.co.il/search?q=UWANT"
+  },
+  {
+   "id": "netoneto",
+   "name": "NetoNeto",
+   "uwant_url": "https://www.netoneto.co.il/uwant?brand=886%2C2701"
+  },
+  {
+   "id": "cwc",
+   "name": "CWC",
+   "uwant_url": "https://www.cwc.co.il/?s=UWANT&post_type=product"
+  },
+  {
+   "id": "lastprice",
+   "name": "LastPrice",
+   "uwant_url": "https://www.lastprice.co.il/category.asp?q=Uwant"
+  },
+  {
+   "id": "alm",
+   "name": "ALM",
+   "uwant_url": "https://www.alm.co.il/brands/uwant.html"
+  },
+  {
+   "id": "traklin",
+   "name": "Traklin",
+   "uwant_url": "https://www.traklin.co.il/?search=UWANT"
+  },
+  {
+   "id": "citydeal",
+   "name": "City Deal",
+   "uwant_url": "https://www.citydeal.co.il/search?q=UWANT"
+  },
+  {
+   "id": "multistore",
+   "name": "Multi Store",
+   "uwant_url": "https://multistore.co.il/brands/uwant/"
+  },
+  {
+   "id": "uwant",
+   "name": "UWANT IL",
+   "uwant_url": "https://www.uwant.co.il/collections/all"
+  }
+ ],
+ "models": [
+  "U300 V25",
+  "T300",
+  "U400",
+  "D500",
+  "D600",
+  "D700",
+  "DX800",
+  "V500",
+  "V600",
+  "V800",
+  "M400",
+  "M500",
+  "M600",
+  "Y100",
+  "Y200",
+  "Y100 Steam",
+  "Y200 Steam"
+ ],
+ "matrix": {
+  "U300 V25": {
+   "KSP": {
+    "price": 1958,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/411813",
+    "note": null
+   },
+   "Walla Shops": null,
+   "NetoNeto": {
+    "price": 1943,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99-%D7%A2%D7%9D-%D7%A2%D7%9E%D7%93%D7%AA-%D7%A8%D7%99%D7%A7%D7%95%D7%9F-%D7%A2%D7%A6%D7%9E%D7%AA%D7%99%D7%AA-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-u300-v5",
+    "note": null
+   },
+   "CWC": {
+    "price": 2690,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99-v25-u300-%d7%a2%d7%9d-%d7%aa%d7%97%d7%a0%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%95%d7%a0%d7%99%d7%a7%d7%95/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 1958,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100045762/%D7%A9%D7%95%D7%90%D7%91%2D%D7%90%D7%91%D7%A7%2D%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%91%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%AA%2DAI%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A8%D7%95%D7%9C%D7%A8%2D%D7%9E%D7%A7%D7%A8%D7%A6%D7%A3%2D%D7%95%D7%A2%D7%9E%D7%93%D7%AA%2D%D7%A8%D7%99%D7%A7%D7%95%D7%9F%2D%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%AA%2DUWANT/UWANT-U300%2DV25",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": {
+    "price": 1949,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-u300-v25-%D7%A8%D7%95%D7%91%D7%95%D7%98-%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%9E%D7%99%D7%9D-%D7%97%D7%9E%D7%99%D7%9D-13000pa",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 2190,
+    "regular": 3590,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99-%d7%a9%d7%95%d7%98%d7%a3-%d7%9e%d7%a7%d7%a8%d7%a6%d7%a3-uwant-u300-v25/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 2690,
+    "regular": 3990,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/u300",
+    "note": null
+   }
+  },
+  "T300": {
+   "KSP": {
+    "price": 3204,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/455816",
+    "note": null
+   },
+   "Walla Shops": null,
+   "NetoNeto": {
+    "price": 3201,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A8%D7%95%D7%91%D7%95%D7%98-%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%A2%D7%9D-%D7%A9%D7%98%D7%99%D7%A4%D7%94-%D7%95%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%95%D7%A8%D7%99%D7%A7%D7%95%D7%9F-%D7%A2%D7%A6%D7%9E%D7%99%D7%AA-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-t300",
+    "note": null
+   },
+   "CWC": {
+    "price": 3204,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99-t300-%d7%9c%d7%91%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 3590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/16570870/%D7%A9%D7%95%D7%90%D7%91%2D%D7%90%D7%91%D7%A7%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%AA%D7%97%D7%A0%D7%AA%2D%D7%A2%D7%92%D7%99%D7%A0%D7%94%2DUWANT/UWANT-T300",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 3206,
+    "regular": 3790,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053026.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 3199,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-t300-robotic-vacuum-cleaner",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 3190,
+    "regular": 4290,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/uwant-t300-%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99-%d7%97%d7%9b%d7%9d/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 3590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-t300-robot-vacuum",
+    "note": null
+   }
+  },
+  "U400": {
+   "KSP": {
+    "price": 4324,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/474691",
+    "note": "מחיר מכירה רגיל; הצעת מכרז לא נכללה"
+   },
+   "Walla Shops": {
+    "price": 4395,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/160681",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 4317,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-u400",
+    "note": null
+   },
+   "CWC": {
+    "price": 4324,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a8%d7%95%d7%91%d7%95%d7%98%d7%99-u400-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 4321,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100067725/%D7%A8%D7%95%D7%91%D7%95%D7%98%2D%D7%A9%D7%95%D7%90%D7%91%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A9%D7%98%D7%99%D7%A4%D7%94%2D%D7%91%D7%9E%D7%99%D7%9D%2D%D7%97%D7%9E%D7%99%D7%9D%2D%D7%95%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA%2D%D7%9E%D7%99%D7%9C%D7%95%D7%99%2D%D7%95%D7%A8%D7%99%D7%A7%D7%95%D7%9F%2D%D7%94%D7%99%D7%91%D7%A8%D7%99%D7%93%D7%99%D7%AA%2DUWANT/UWANT-U400",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 4325,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053028.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 4318,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-u400",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 4390,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-u400",
+    "note": null
+   }
+  },
+  "D500": {
+   "KSP": {
+    "price": 890,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/405946",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 899,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/143701",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 879,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-d500",
+    "note": null
+   },
+   "CWC": {
+    "price": 899,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%95%d7%9e%d7%93-d500-%d7%a2%d7%9d-%d7%aa%d7%97%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%9c%d7%91%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 890,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/23478524/%D7%A9%D7%95%D7%90%D7%91%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%99%D7%93%D7%A0%D7%99%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2DUwant/UWANT-D500",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": {
+    "price": 798,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-d500-%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%AA%D7%97%D7%A0%D7%AA-%D7%A2%D7%92%D7%99%D7%A0%D7%94-17000pa",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 899,
+    "regular": 1390,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/d500",
+    "note": null
+   }
+  },
+  "D600": {
+   "KSP": {
+    "price": 1449,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/405994",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 1449,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/143709",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 1347,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-d600",
+    "note": null
+   },
+   "CWC": {
+    "price": 1449,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%95%d7%9e%d7%93-d600-%d7%a2%d7%9d-%d7%aa%d7%97%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%a9%d7%97%d7%95%d7%a8-%d7%99%d7%95-%d7%95%d7%95%d7%90/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 1449,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100059182/%D7%A9%D7%95%D7%90%D7%91%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%99%D7%93%D7%A0%D7%99%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2DUwant/UWANT-D600",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 1451,
+    "regular": 2190,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053010.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 1345,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-d600-%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%AA%D7%97%D7%A0%D7%AA-%D7%A2%D7%92%D7%99%D7%A0%D7%94-23000pa",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 1890,
+    "regular": 2690,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%90%d7%91%d7%a7-%d7%a9%d7%95%d7%98%d7%a3-uwant-%d7%93%d7%92%d7%9d-d600-%d7%94%d7%a2%d7%aa%d7%a7/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 1490,
+    "regular": 2190,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/d600",
+    "note": null
+   }
+  },
+  "D700": {
+   "KSP": {
+    "price": 1886,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/406059",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 1701,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/143711",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 1883,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-d700-pro",
+    "note": null
+   },
+   "CWC": {
+    "price": 1886,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%95%d7%9e%d7%93-d700-pro-%d7%a2%d7%9d-%d7%aa%d7%97%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%a9%d7%97%d7%95%d7%a8-%d7%99%d7%95-%d7%95%d7%95/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 1888,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100059185/%D7%A9%D7%95%D7%90%D7%91%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%99%D7%93%D7%A0%D7%99%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2DUwant/UWANT-D700%2DPro",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 1890,
+    "regular": 2690,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053011.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 1881,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-d700-pro",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 1990,
+    "regular": 2990,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/uwant-d700pro-%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 1990,
+    "regular": 2690,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/d700-pro",
+    "note": null
+   }
+  },
+  "DX800": {
+   "KSP": null,
+   "Walla Shops": null,
+   "NetoNeto": {
+    "price": 2689,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%A9%D7%95%D7%98%D7%A3-%D7%A2%D7%9D-%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A7%D7%99%D7%98%D7%95%D7%A8-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-dx800",
+    "note": null
+   },
+   "CWC": {
+    "price": 2750,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%90%d7%9c%d7%97%d7%95%d7%98%d7%99-dx800-steam-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 2750,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/10161721/%D7%A9%D7%95%D7%90%D7%91%2D%D7%A9%D7%95%D7%98%D7%A3%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%91%D7%A7%D7%99%D7%98%D7%95%D7%A8%2D%D7%95%D7%A8%D7%99%D7%A7%D7%95%D7%9F%2D%D7%95%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%A2%D7%A6%D7%9E%D7%99%2DUWANT/UWANT-DX800%2DSteam",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 2750,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053029.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 2689,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-dx800-steam-cordless-vacuum-cleaner",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 2649,
+    "regular": 3190,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%90%d7%9c%d7%97%d7%95%d7%98%d7%99-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%9d-%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%91%d7%a7%d7%99%d7%98%d7%95%d7%a8-%d7%93%d7%92%d7%9d-uwant-dx800-s/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 2750,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-dx800-steam",
+    "note": null
+   }
+  },
+  "V500": {
+   "KSP": {
+    "price": 828,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/406038",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 838,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/144608",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 796,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%A2%D7%9D-%D7%A2%D7%9E%D7%93%D7%AA-%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A2%D7%A6%D7%9E%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-v500",
+    "note": null
+   },
+   "CWC": {
+    "price": 828,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%95%d7%9e%d7%93-v500-%d7%a2%d7%9d-%d7%aa%d7%97%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%95%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%a2%d7%a6%d7%9e/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 838,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100059186/%D7%A9%D7%95%D7%90%D7%91%2D%D7%90%D7%91%D7%A7%2D%D7%99%D7%93%D7%A0%D7%99%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A2%D7%9E%D7%93%D7%AA%2D%D7%A8%D7%99%D7%A7%D7%95%D7%9F%2D%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%2DUwant/UWANT-V500%2D%D7%9C%D7%91%D7%9F",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": {
+    "price": 794,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-v500-%D7%A9%D7%95%D7%90%D7%91-%D7%90%D7%91%D7%A7-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%A2%D7%9E%D7%93%D7%AA-%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A2%D7%A6%D7%9E%D7%99",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 899,
+    "regular": 1290,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/v500",
+    "note": null
+   }
+  },
+  "V600": {
+   "KSP": {
+    "price": 1359,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/406023",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 1490,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/143721",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 1354,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%A2%D7%9D-%D7%A2%D7%9E%D7%93%D7%AA-%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A2%D7%A6%D7%9E%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-v600",
+    "note": null
+   },
+   "CWC": {
+    "price": 1475,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%95%d7%98%d7%a3-%d7%a2%d7%95%d7%9e%d7%93-v600-%d7%a2%d7%9d-%d7%aa%d7%97%d7%aa-%d7%a2%d7%92%d7%99%d7%a0%d7%94-%d7%95%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%a2%d7%a6%d7%9e/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 1476,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100059189/%D7%A9%D7%95%D7%90%D7%91%2D%D7%90%D7%91%D7%A7%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A2%D7%9E%D7%93%D7%AA%2D%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%A2%D7%A6%D7%9E%D7%99%2DUwant/UWANT-V600",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": {
+    "price": 1352,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-v600-%D7%A9%D7%95%D7%90%D7%91-%D7%90%D7%91%D7%A7-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%AA%D7%97%D7%A0%D7%AA-%D7%A2%D7%92%D7%99%D7%A0%D7%94-%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A2%D7%A6%D7%9E%D7%99",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 1490,
+    "regular": 1990,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/v600",
+    "note": null
+   }
+  },
+  "V800": {
+   "KSP": {
+    "price": 2590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/474628",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 2590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/160682",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 2324,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99-%D7%A2%D7%9D-%D7%A2%D7%9E%D7%93%D7%AA-%D7%A8%D7%99%D7%A7%D7%95%D7%9F-%D7%95%D7%A0%D7%99%D7%A7%D7%95%D7%99-%D7%A2%D7%A6%D7%9E%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-v800",
+    "note": null
+   },
+   "CWC": {
+    "price": 2592,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%90%d7%9c%d7%97%d7%95%d7%98%d7%99-v800-%d7%a2%d7%9d-%d7%a2%d7%9e%d7%93%d7%aa-%d7%a8%d7%99%d7%a7%d7%95%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 2590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/27791640/%D7%A9%D7%95%D7%90%D7%91%2D%D7%90%D7%91%D7%A7%2D%D7%90%D7%9C%D7%97%D7%95%D7%98%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%A2%D7%9E%D7%93%D7%AA%2D%D7%A8%D7%99%D7%A7%D7%95%D7%9F%2D%D7%95%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%A2%D7%A6%D7%9E%D7%99%2DUWANT/UWANT-V800",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": {
+    "price": 2325,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-v800",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 2295,
+    "regular": 3190,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%90%d7%91%d7%a7-%d7%90%d7%9c%d7%97%d7%95%d7%98%d7%99-uwant-v100-%d7%a2%d7%95%d7%a6%d7%9e%d7%aa-%d7%a9%d7%90%d7%99%d7%91%d7%94-320aw-%d7%a2%d7%9d-%d7%a8%d7%99/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 2590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-v800-vacuum",
+    "note": null
+   }
+  },
+  "M400": {
+   "KSP": {
+    "price": 367,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/405968",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 455,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/143713",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 363,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%9E%D7%96%D7%A8%D7%A0%D7%99%D7%9D-%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-m400",
+    "note": null
+   },
+   "CWC": {
+    "price": 400,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%95%d7%9e%d7%97%d7%98%d7%90-%d7%9e%d7%96%d7%a8%d7%95%d7%a0%d7%99%d7%9d-m400-%d7%9c%d7%91%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 379,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100059190/%D7%A9%D7%95%D7%90%D7%91%2D%D7%9E%D7%96%D7%A8%D7%A0%D7%99%D7%9D%2D%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%AA%2DDual%2DStaticHair%2D%D7%9E%D7%A9%D7%9E%D7%99%D7%93%2D%D7%A7%D7%A8%D7%93%D7%99%D7%AA%2D%D7%94%D7%90%D7%91%D7%A7%2DUWANT/UWANT-M400",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 400,
+    "regular": 549,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053015.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 364,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-m400",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 455,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/m400",
+    "note": null
+   }
+  },
+  "M500": {
+   "KSP": null,
+   "Walla Shops": null,
+   "NetoNeto": null,
+   "CWC": null,
+   "LastPrice": {
+    "price": 599,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100069675/%D7%A9%D7%95%D7%90%D7%91%2D%D7%9E%D7%96%D7%A8%D7%A0%D7%99%D7%9D%2D%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%AA%2DUltraSonic%2D%D7%9E%D7%A9%D7%9E%D7%99%D7%93%2D%D7%A7%D7%A8%D7%93%D7%99%D7%AA%2D%D7%94%D7%90%D7%91%D7%A7%2DUWANT/UWANT-M500",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": null,
+   "City Deal": null,
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 599,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-m500-mite-removal",
+    "note": null
+   }
+  },
+  "M600": {
+   "KSP": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/444001",
+    "note": null
+   },
+   "Walla Shops": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/152758",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": {
+    "price": 674,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%A9%D7%95%D7%90%D7%91-%D7%9E%D7%96%D7%A8%D7%A0%D7%99%D7%9D-%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-m600",
+    "note": null
+   },
+   "CWC": null,
+   "LastPrice": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/27064970/%D7%A9%D7%95%D7%90%D7%91%2D%D7%9E%D7%96%D7%A8%D7%A0%D7%99%D7%9D%2D%D7%A2%D7%95%D7%A6%D7%9E%D7%AA%D7%99%2D%D7%9B%D7%95%D7%9C%D7%9C%2D%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%AA%2DUltraSonic%2D%D7%9E%D7%A9%D7%9E%D7%99%D7%93%2D%D7%A7%D7%A8%D7%93%D7%99%D7%AA%2D%D7%94%D7%90%D7%91%D7%A7%2DUWANT/UWANT-M600",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": {
+    "price": 690,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.alm.co.il/630053020.html",
+    "note": null
+   },
+   "Traklin": null,
+   "City Deal": {
+    "price": 675,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-m600-mattress-vacuum-cleaner-uv-anti-mite",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 649,
+    "regular": 899,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%a9%d7%95%d7%90%d7%91-%d7%95%d7%9e%d7%97%d7%98%d7%90-%d7%9e%d7%96%d7%a8%d7%95%d7%a0%d7%99%d7%9d-%d7%95%d7%a1%d7%a4%d7%95%d7%aa-m600-%d7%9c%d7%91%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uw/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-m600-mite-removal",
+    "note": null
+   }
+  },
+  "Y100": {
+   "KSP": {
+    "price": 490,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/444926",
+    "note": null
+   },
+   "Walla Shops": null,
+   "NetoNeto": null,
+   "CWC": {
+    "price": 490,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%9e%d7%9b%d7%a9%d7%99%d7%a8-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%9e%d7%a1%d7%a4%d7%95%d7%aa-y100-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uwant/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100062533/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%2D%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%9B%D7%AA%D7%9E%D7%99%D7%9D%2D%D7%A8%D7%91%2D%D7%AA%D7%9B%D7%9C%D7%99%D7%AA%D7%99%2DUWANT/UWANT-Y100%2DSpot%2DCleaner%2D%D7%9C%D7%91%D7%9F",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": {
+    "price": 590,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.traklin.co.il/נקיון_וכביסה/שואב_אבק/מנקה_ספות_רב_תכליתי_uwant_דגם_y100?search=UWANT",
+    "note": null
+   },
+   "City Deal": {
+    "price": 589,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-y100",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 489,
+    "regular": 749,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/uwant-y100-%d7%9e%d7%a0%d7%a7%d7%94-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%a9%d7%95%d7%90%d7%91-%d7%a9%d7%98%d7%99%d7%a4%d7%94/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 599,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-y100-spot-cleaner",
+    "note": null
+   }
+  },
+  "Y200": {
+   "KSP": {
+    "price": 459,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://ksp.co.il/web/item/421673",
+    "note": null
+   },
+   "Walla Shops": null,
+   "NetoNeto": null,
+   "CWC": {
+    "price": 459,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%9e%d7%9b%d7%a9%d7%99%d7%a8-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%9e%d7%a1%d7%a4%d7%95%d7%aa-y200-%d7%9c%d7%91%d7%9f-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-uw/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/100060470/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%2D%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%9B%D7%AA%D7%9E%D7%99%D7%9D%2D%D7%A8%D7%91%2D%D7%AA%D7%9B%D7%9C%D7%99%D7%AA%D7%99%2DUWANT/UWANT-Y200",
+    "note": "תוקן ידנית ב-09.08.2026 לאחר אימות מול דף המוצר החי (הנתון המקורי בדוח, 459, היה שגוי — זהה במקרה למחיר של KSP)"
+   },
+   "ALM": null,
+   "Traklin": {
+    "price": 459,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.traklin.co.il/נקיון_וכביסה/שואב_אבק/מנקה_ספות_רב_תכליתי_uwant_דגם_y200?search=UWANT",
+    "note": null
+   },
+   "City Deal": {
+    "price": 459,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-y200",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 699,
+    "regular": null,
+    "club": null,
+    "stock": "אזל",
+    "url": "https://www.uwant.co.il/products/y200",
+    "note": null
+   }
+  },
+  "Y100 Steam": {
+   "KSP": null,
+   "Walla Shops": null,
+   "NetoNeto": {
+    "price": 918,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.netoneto.co.il/product/%D7%9E%D7%A0%D7%A7%D7%94-%D7%9B%D7%AA%D7%9E%D7%99%D7%9D-%D7%A8%D7%91-%D7%AA%D7%9B%D7%9C%D7%99%D7%AA%D7%99-%D7%A2%D7%9D-%D7%A7%D7%99%D7%98%D7%95%D7%A8-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-%D7%93%D7%92%D7%9D-y100steam",
+    "note": null
+   },
+   "CWC": {
+    "price": 990,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%9e%d7%9b%d7%a9%d7%99%d7%a8-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%9e%d7%a1%d7%a4%d7%95%d7%aa-%d7%a2%d7%9d-%d7%a7%d7%99%d7%98%d7%95%d7%a8-y100-steam-%d7%99%d7%95/",
+    "note": null
+   },
+   "LastPrice": {
+    "price": 919,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.lastprice.co.il/p/46675764/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%2D%D7%9C%D7%A0%D7%99%D7%A7%D7%95%D7%99%2D%D7%9B%D7%AA%D7%9E%D7%99%D7%9D%2D%D7%A8%D7%91%2D%D7%AA%D7%9B%D7%9C%D7%99%D7%AA%D7%99%2D%D7%9E%D7%A9%D7%95%D7%9C%D7%91%2D%D7%A7%D7%99%D7%98%D7%95%D7%A8%2DUWANT/UWANT-Y100%2DSteam%2D%D7%9C%D7%91%D7%9F",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "ALM": null,
+   "Traklin": {
+    "price": 919,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.traklin.co.il/נקיון_וכביסה/שואב_אבק/מנקה_ספות_רב_תכליתי_עם_קיטור_uwant_דגם_steam_y100?search=UWANT",
+    "note": null
+   },
+   "City Deal": {
+    "price": 905,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/uwant-y100-steam-stain-cleaner",
+    "note": null
+   },
+   "Multi Store": {
+    "price": 799,
+    "regular": 1500,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://multistore.co.il/product/%d7%9e%d7%a0%d7%a7%d7%94-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%a8%d7%91-%d7%aa%d7%9b%d7%9c%d7%99%d7%aa%d7%99-%d7%a2%d7%9d-%d7%a7%d7%99%d7%98%d7%95%d7%a8-%d7%93%d7%92%d7%9d-uwant-y100-steam/",
+    "note": null
+   },
+   "UWANT IL": {
+    "price": 999,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.uwant.co.il/products/uwant-y100-steam-spot-cleaner",
+    "note": null
+   }
+  },
+  "Y200 Steam": {
+   "KSP": null,
+   "Walla Shops": {
+    "price": 990,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.wallashops.co.il/item/158280",
+    "note": "מחיר קנייה רגיל; הצעות לא נכללו"
+   },
+   "NetoNeto": null,
+   "CWC": {
+    "price": 999,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.cwc.co.il/product/%d7%9e%d7%9b%d7%a9%d7%99%d7%a8-%d7%9c%d7%a0%d7%99%d7%a7%d7%95%d7%99-%d7%9b%d7%aa%d7%9e%d7%99%d7%9d-%d7%9e%d7%a1%d7%a4%d7%95%d7%aa-%d7%a2%d7%9d-%d7%a7%d7%99%d7%98%d7%95%d7%a8-y200steam-%d7%99%d7%95/",
+    "note": null
+   },
+   "LastPrice": null,
+   "ALM": null,
+   "Traklin": {
+    "price": 1290,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.traklin.co.il/נקיון_וכביסה/שואב_אבק/מנקה_ספות_רב_תכליתי_עם_קיטור_uwant_דגם_steam_y200?search=UWANT",
+    "note": null
+   },
+   "City Deal": {
+    "price": 1290,
+    "regular": null,
+    "club": null,
+    "stock": "במלאי",
+    "url": "https://www.citydeal.co.il/product/y200-steam",
+    "note": null
+   },
+   "Multi Store": null,
+   "UWANT IL": {
+    "price": 999,
+    "regular": null,
+    "club": null,
+    "stock": "אזל",
+    "url": "https://www.uwant.co.il/products/uwant-y200-steam",
+    "note": null
+   }
+  }
+ },
+ "stats": [
+  {
+   "site": "KSP",
+   "variants": 15,
+   "total_records": 16,
+   "price_coverage": 13,
+   "coverage_pct": 76,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "Walla Shops",
+   "variants": 11,
+   "total_records": 11,
+   "price_coverage": 10,
+   "coverage_pct": 59,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "NetoNeto",
+   "variants": 13,
+   "total_records": 14,
+   "price_coverage": 13,
+   "coverage_pct": 76,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "CWC",
+   "variants": 16,
+   "total_records": 18,
+   "price_coverage": 15,
+   "coverage_pct": 88,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "LastPrice",
+   "variants": 17,
+   "total_records": 18,
+   "price_coverage": 16,
+   "coverage_pct": 94,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "ALM",
+   "variants": 9,
+   "total_records": 9,
+   "price_coverage": 7,
+   "coverage_pct": 41,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "Traklin",
+   "variants": 4,
+   "total_records": 4,
+   "price_coverage": 4,
+   "coverage_pct": 24,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "City Deal",
+   "variants": 16,
+   "total_records": 16,
+   "price_coverage": 16,
+   "coverage_pct": 94,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "Multi Store",
+   "variants": 9,
+   "total_records": 9,
+   "price_coverage": 9,
+   "coverage_pct": 53,
+   "note": "בדיקה חיה בדפי מוצר"
+  },
+  {
+   "site": "UWANT IL",
+   "variants": 17,
+   "total_records": 17,
+   "price_coverage": 17,
+   "coverage_pct": 100,
+   "note": "בדיקה חיה בדפי מוצר"
+  }
+ ],
+ "extras": [
+  {
+   "site": "KSP",
+   "model": "V100",
+   "name": "מק\"ט KSP: 263213 מברשת להסרת קרדית אבק לשואב Uwant V100 ₪99 מחיר אילת : ₪83.9 מלאי בסניפים",
+   "price": 99,
+   "stock": "במלאי",
+   "kind": "אביזר",
+   "url": "https://ksp.co.il/web/item/270777"
+  },
+  {
+   "site": "NetoNeto",
+   "model": "B200",
+   "name": "מגהץ קיטור אנכי למנקה ריפודים B200 מבית UWANT יו וונט B200 IRON ₪390",
+   "price": 390,
+   "stock": "במלאי",
+   "kind": "אביזר",
+   "url": "https://www.netoneto.co.il/product/%D7%9E%D7%92%D7%94%D7%A5-%D7%A7%D7%99%D7%98%D7%95%D7%A8-%D7%90%D7%A0%D7%9B%D7%99-%D7%9C%D7%9E%D7%A0%D7%A7%D7%94-%D7%A8%D7%99%D7%A4%D7%95%D7%93%D7%99%D7%9D-b200-%D7%9E%D7%91%D7%99%D7%AA-uwant-%D7%99%D7%95-%D7%95%D7%95%D7%A0%D7%98-b200-iron"
+  },
+  {
+   "site": "CWC",
+   "model": "B200",
+   "name": "מגהץ קיטור אנכי למנקה ריפודים B200 אפור UWANT ₪49",
+   "price": 49,
+   "stock": "במלאי",
+   "kind": "אביזר",
+   "url": "https://www.cwc.co.il/product/%d7%9e%d7%92%d7%94%d7%a5-%d7%a7%d7%99%d7%98%d7%95%d7%a8-%d7%90%d7%a0%d7%9b%d7%99-%d7%9c%d7%9e%d7%a0%d7%a7%d7%94-%d7%a8%d7%99%d7%a4%d7%95%d7%93%d7%99%d7%9d-b200-%d7%90%d7%a4%d7%95%d7%a8-uwant/"
+  },
+  {
+   "site": "CWC",
+   "model": "V500",
+   "name": "אביזר בעלי חיים לשואב יו וואנט V600/V500 UWANT ₪299",
+   "price": 299,
+   "stock": "במלאי",
+   "kind": "אביזר",
+   "url": "https://www.cwc.co.il/product/%d7%90%d7%91%d7%99%d7%96%d7%a8-%d7%91%d7%a2%d7%9c%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%9c%d7%a9%d7%95%d7%90%d7%91-%d7%99%d7%95-%d7%95%d7%95%d7%90%d7%a0%d7%98-v600-uwant/"
+  },
+  {
+   "site": "LastPrice",
+   "model": "B200",
+   "name": "מגהץ קיטור אנכי עבור מכונת ניקוי UWANT B200 B200 Ironing אפור מחיר ₪47",
+   "price": 47,
+   "stock": "במלאי",
+   "kind": "אביזר",
+   "url": "https://www.lastprice.co.il/p/100039734/%D7%9E%D7%92%D7%94%D7%A5%2D%D7%A7%D7%99%D7%98%D7%95%D7%A8%2D%D7%90%D7%A0%D7%9B%D7%99%2D%D7%A2%D7%91%D7%95%D7%A8%2D%D7%9E%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%A0%D7%99%D7%A7%D7%95%D7%99%2DUWANT%2DB200/UWANT-B200%2DIroning%2D%D7%90%D7%A4%D7%95%D7%A8"
+  }
+ ],
+ "history": {
+  "U300 V25": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1958
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 1970
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1958
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1958
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1943
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2690
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 1970
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1958
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 2075
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1949
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1949
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1949
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2190
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2190
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2690
+    }
+   ]
+  },
+  "T300": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3204
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 3204
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3201
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3204
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3204
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 3590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3590
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 3206
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3206
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3206
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3206
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 3408
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3203
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3202
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3199
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 3790
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3190
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3190
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3190
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 3790
+    },
+    {
+     "date": "2026-08-02",
+     "price": 3790
+    },
+    {
+     "date": "2026-08-03",
+     "price": 3790
+    },
+    {
+     "date": "2026-08-09",
+     "price": 3590
+    }
+   ]
+  },
+  "U400": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4324
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 4395
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4395
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4395
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4395
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4317
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4321
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4324
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4324
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4321
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 4325
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4325
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4325
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4325
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 4323
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4323
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4318
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4318
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 4390
+    },
+    {
+     "date": "2026-08-02",
+     "price": 4390
+    },
+    {
+     "date": "2026-08-03",
+     "price": 4390
+    },
+    {
+     "date": "2026-08-09",
+     "price": 4390
+    }
+   ]
+  },
+  "D500": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 890
+    },
+    {
+     "date": "2026-08-02",
+     "price": 890
+    },
+    {
+     "date": "2026-08-03",
+     "price": 890
+    },
+    {
+     "date": "2026-08-09",
+     "price": 890
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 899
+    },
+    {
+     "date": "2026-08-02",
+     "price": 899
+    },
+    {
+     "date": "2026-08-03",
+     "price": 899
+    },
+    {
+     "date": "2026-08-09",
+     "price": 899
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 879
+    },
+    {
+     "date": "2026-08-02",
+     "price": 879
+    },
+    {
+     "date": "2026-08-03",
+     "price": 879
+    },
+    {
+     "date": "2026-08-09",
+     "price": 879
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 899
+    },
+    {
+     "date": "2026-08-02",
+     "price": 899
+    },
+    {
+     "date": "2026-08-03",
+     "price": 899
+    },
+    {
+     "date": "2026-08-09",
+     "price": 899
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 845
+    },
+    {
+     "date": "2026-08-02",
+     "price": 890
+    },
+    {
+     "date": "2026-08-03",
+     "price": 890
+    },
+    {
+     "date": "2026-08-09",
+     "price": 890
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 879
+    },
+    {
+     "date": "2026-08-02",
+     "price": 798
+    },
+    {
+     "date": "2026-08-03",
+     "price": 798
+    },
+    {
+     "date": "2026-08-09",
+     "price": 798
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 899
+    },
+    {
+     "date": "2026-08-02",
+     "price": 899
+    },
+    {
+     "date": "2026-08-03",
+     "price": 899
+    },
+    {
+     "date": "2026-08-09",
+     "price": 899
+    }
+   ]
+  },
+  "D600": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1449
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1449
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 1448
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1438
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1438
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1347
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 1448
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1438
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1438
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1449
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1449
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1449
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 1451
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1451
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1451
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1451
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 1439
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1360
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1360
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1345
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1890
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1490
+    }
+   ]
+  },
+  "D700": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1886
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 1900
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1775
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1701
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1883
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1775
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1886
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1888
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1888
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1890
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1890
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 1917
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1917
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1886
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1881
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1990
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1990
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1990
+    }
+   ]
+  },
+  "DX800": {
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 2688
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2689
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2689
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2689
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2750
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2750
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2750
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 2689
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2689
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2689
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2689
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2750
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2750
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-08-02",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2690
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2649
+    }
+   ]
+  },
+  "V500": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 828
+    },
+    {
+     "date": "2026-08-02",
+     "price": 828
+    },
+    {
+     "date": "2026-08-03",
+     "price": 828
+    },
+    {
+     "date": "2026-08-09",
+     "price": 828
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 829
+    },
+    {
+     "date": "2026-08-02",
+     "price": 788
+    },
+    {
+     "date": "2026-08-03",
+     "price": 838
+    },
+    {
+     "date": "2026-08-09",
+     "price": 838
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 827
+    },
+    {
+     "date": "2026-08-02",
+     "price": 827
+    },
+    {
+     "date": "2026-08-03",
+     "price": 827
+    },
+    {
+     "date": "2026-08-09",
+     "price": 796
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 827
+    },
+    {
+     "date": "2026-08-02",
+     "price": 788
+    },
+    {
+     "date": "2026-08-03",
+     "price": 827
+    },
+    {
+     "date": "2026-08-09",
+     "price": 828
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 838
+    },
+    {
+     "date": "2026-08-02",
+     "price": 838
+    },
+    {
+     "date": "2026-08-03",
+     "price": 838
+    },
+    {
+     "date": "2026-08-09",
+     "price": 838
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 819
+    },
+    {
+     "date": "2026-08-02",
+     "price": 786
+    },
+    {
+     "date": "2026-08-03",
+     "price": 825
+    },
+    {
+     "date": "2026-08-09",
+     "price": 794
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 899
+    },
+    {
+     "date": "2026-08-02",
+     "price": 899
+    },
+    {
+     "date": "2026-08-03",
+     "price": 899
+    },
+    {
+     "date": "2026-08-09",
+     "price": 899
+    }
+   ]
+  },
+  "V600": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 1359
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1359
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1359
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1359
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1490
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1354
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1357
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1475
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 1476
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1476
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1476
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1476
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 1355
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1355
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1355
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1352
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1490
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1490
+    }
+   ]
+  },
+  "V800": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2590
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2590
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 2330
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2327
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2327
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2324
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 2330
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2327
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2327
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2592
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2590
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 2592
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2592
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2592
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 2328
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2325
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2325
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2325
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2590
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-08-02",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 2590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 2295
+    }
+   ]
+  },
+  "M400": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 367
+    },
+    {
+     "date": "2026-08-02",
+     "price": 367
+    },
+    {
+     "date": "2026-08-03",
+     "price": 367
+    },
+    {
+     "date": "2026-08-09",
+     "price": 367
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 455
+    },
+    {
+     "date": "2026-08-02",
+     "price": 455
+    },
+    {
+     "date": "2026-08-03",
+     "price": 455
+    },
+    {
+     "date": "2026-08-09",
+     "price": 455
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 367
+    },
+    {
+     "date": "2026-08-02",
+     "price": 367
+    },
+    {
+     "date": "2026-08-03",
+     "price": 367
+    },
+    {
+     "date": "2026-08-09",
+     "price": 363
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 367
+    },
+    {
+     "date": "2026-08-02",
+     "price": 367
+    },
+    {
+     "date": "2026-08-03",
+     "price": 367
+    },
+    {
+     "date": "2026-08-09",
+     "price": 400
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 379
+    },
+    {
+     "date": "2026-08-02",
+     "price": 379
+    },
+    {
+     "date": "2026-08-03",
+     "price": 379
+    },
+    {
+     "date": "2026-08-09",
+     "price": 379
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 400
+    },
+    {
+     "date": "2026-08-02",
+     "price": 400
+    },
+    {
+     "date": "2026-08-03",
+     "price": 400
+    },
+    {
+     "date": "2026-08-09",
+     "price": 400
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 369
+    },
+    {
+     "date": "2026-08-02",
+     "price": 364
+    },
+    {
+     "date": "2026-08-03",
+     "price": 364
+    },
+    {
+     "date": "2026-08-09",
+     "price": 364
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 455
+    },
+    {
+     "date": "2026-08-02",
+     "price": 455
+    },
+    {
+     "date": "2026-08-03",
+     "price": 455
+    },
+    {
+     "date": "2026-08-09",
+     "price": 455
+    }
+   ]
+  },
+  "M500": {
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 599
+    },
+    {
+     "date": "2026-08-02",
+     "price": 599
+    },
+    {
+     "date": "2026-08-03",
+     "price": 599
+    },
+    {
+     "date": "2026-08-09",
+     "price": 599
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 599
+    },
+    {
+     "date": "2026-08-02",
+     "price": 599
+    },
+    {
+     "date": "2026-08-03",
+     "price": 599
+    },
+    {
+     "date": "2026-08-09",
+     "price": 599
+    }
+   ]
+  },
+  "M600": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 560
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 674
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 589
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 591
+    },
+    {
+     "date": "2026-08-02",
+     "price": 506
+    },
+    {
+     "date": "2026-08-03",
+     "price": 506
+    },
+    {
+     "date": "2026-08-09",
+     "price": 690
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 525
+    },
+    {
+     "date": "2026-08-03",
+     "price": 679
+    },
+    {
+     "date": "2026-08-09",
+     "price": 675
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 550
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 649
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ]
+  },
+  "Y100": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 490
+    },
+    {
+     "date": "2026-08-02",
+     "price": 490
+    },
+    {
+     "date": "2026-08-03",
+     "price": 490
+    },
+    {
+     "date": "2026-08-09",
+     "price": 490
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 490
+    },
+    {
+     "date": "2026-08-02",
+     "price": 490
+    },
+    {
+     "date": "2026-08-03",
+     "price": 490
+    },
+    {
+     "date": "2026-08-09",
+     "price": 490
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 590
+    },
+    {
+     "date": "2026-08-02",
+     "price": 590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 590
+    }
+   ],
+   "Traklin": [
+    {
+     "date": "2026-07-29",
+     "price": 599
+    },
+    {
+     "date": "2026-08-02",
+     "price": 590
+    },
+    {
+     "date": "2026-08-03",
+     "price": 590
+    },
+    {
+     "date": "2026-08-09",
+     "price": 590
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 589
+    },
+    {
+     "date": "2026-08-02",
+     "price": 589
+    },
+    {
+     "date": "2026-08-03",
+     "price": 589
+    },
+    {
+     "date": "2026-08-09",
+     "price": 589
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 489
+    },
+    {
+     "date": "2026-08-02",
+     "price": 489
+    },
+    {
+     "date": "2026-08-03",
+     "price": 489
+    },
+    {
+     "date": "2026-08-09",
+     "price": 489
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 599
+    },
+    {
+     "date": "2026-08-02",
+     "price": 599
+    },
+    {
+     "date": "2026-08-03",
+     "price": 599
+    },
+    {
+     "date": "2026-08-09",
+     "price": 599
+    }
+   ]
+  },
+  "Y200": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 459
+    },
+    {
+     "date": "2026-08-02",
+     "price": 459
+    },
+    {
+     "date": "2026-08-03",
+     "price": 459
+    },
+    {
+     "date": "2026-08-09",
+     "price": 459
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 459
+    },
+    {
+     "date": "2026-08-02",
+     "price": 459
+    },
+    {
+     "date": "2026-08-03",
+     "price": 459
+    },
+    {
+     "date": "2026-08-09",
+     "price": 459
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 459
+    },
+    {
+     "date": "2026-08-02",
+     "price": 459
+    },
+    {
+     "date": "2026-08-03",
+     "price": 459
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ],
+   "Traklin": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 459
+    },
+    {
+     "date": "2026-08-03",
+     "price": 459
+    },
+    {
+     "date": "2026-08-09",
+     "price": 459
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 459
+    },
+    {
+     "date": "2026-08-02",
+     "price": 459
+    },
+    {
+     "date": "2026-08-03",
+     "price": 459
+    },
+    {
+     "date": "2026-08-09",
+     "price": 459
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 699
+    },
+    {
+     "date": "2026-08-02",
+     "price": 699
+    },
+    {
+     "date": "2026-08-03",
+     "price": 699
+    },
+    {
+     "date": "2026-08-09",
+     "price": 699
+    }
+   ],
+   "Walla Shops": [
+    {
+     "date": "2026-08-02",
+     "price": 990
+    }
+   ]
+  },
+  "Y100 Steam": {
+   "KSP": [
+    {
+     "date": "2026-07-29",
+     "price": 922
+    },
+    {
+     "date": "2026-08-02",
+     "price": 919
+    },
+    {
+     "date": "2026-08-03",
+     "price": 919
+    }
+   ],
+   "NetoNeto": [
+    {
+     "date": "2026-07-29",
+     "price": 919
+    },
+    {
+     "date": "2026-08-02",
+     "price": 918
+    },
+    {
+     "date": "2026-08-03",
+     "price": 918
+    },
+    {
+     "date": "2026-08-09",
+     "price": 918
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 990
+    },
+    {
+     "date": "2026-08-02",
+     "price": 990
+    },
+    {
+     "date": "2026-08-03",
+     "price": 990
+    },
+    {
+     "date": "2026-08-09",
+     "price": 990
+    }
+   ],
+   "LastPrice": [
+    {
+     "date": "2026-07-29",
+     "price": 919
+    },
+    {
+     "date": "2026-08-02",
+     "price": 919
+    },
+    {
+     "date": "2026-08-03",
+     "price": 919
+    },
+    {
+     "date": "2026-08-09",
+     "price": 919
+    }
+   ],
+   "ALM": [
+    {
+     "date": "2026-07-29",
+     "price": 954
+    },
+    {
+     "date": "2026-08-02",
+     "price": 951
+    },
+    {
+     "date": "2026-08-03",
+     "price": 951
+    }
+   ],
+   "Traklin": [
+    {
+     "date": "2026-07-29",
+     "price": 999
+    },
+    {
+     "date": "2026-08-02",
+     "price": 919
+    },
+    {
+     "date": "2026-08-03",
+     "price": 919
+    },
+    {
+     "date": "2026-08-09",
+     "price": 919
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 926
+    },
+    {
+     "date": "2026-08-02",
+     "price": 926
+    },
+    {
+     "date": "2026-08-03",
+     "price": 914
+    },
+    {
+     "date": "2026-08-09",
+     "price": 905
+    }
+   ],
+   "Multi Store": [
+    {
+     "date": "2026-07-29",
+     "price": 799
+    },
+    {
+     "date": "2026-08-02",
+     "price": 799
+    },
+    {
+     "date": "2026-08-03",
+     "price": 799
+    },
+    {
+     "date": "2026-08-09",
+     "price": 799
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 999
+    },
+    {
+     "date": "2026-08-02",
+     "price": 999
+    },
+    {
+     "date": "2026-08-03",
+     "price": 999
+    },
+    {
+     "date": "2026-08-09",
+     "price": 999
+    }
+   ]
+  },
+  "Y200 Steam": {
+   "Walla Shops": [
+    {
+     "date": "2026-07-29",
+     "price": 990
+    },
+    {
+     "date": "2026-08-03",
+     "price": 990
+    },
+    {
+     "date": "2026-08-09",
+     "price": 990
+    }
+   ],
+   "CWC": [
+    {
+     "date": "2026-07-29",
+     "price": 999
+    },
+    {
+     "date": "2026-08-02",
+     "price": 999
+    },
+    {
+     "date": "2026-08-03",
+     "price": 999
+    },
+    {
+     "date": "2026-08-09",
+     "price": 999
+    }
+   ],
+   "Traklin": [
+    {
+     "date": "2026-07-29",
+     "price": 1290
+    },
+    {
+     "date": "2026-08-02",
+     "price": 1290
+    },
+    {
+     "date": "2026-08-03",
+     "price": 1290
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1290
+    }
+   ],
+   "City Deal": [
+    {
+     "date": "2026-07-29",
+     "price": 999
+    },
+    {
+     "date": "2026-08-02",
+     "price": 999
+    },
+    {
+     "date": "2026-08-03",
+     "price": 999
+    },
+    {
+     "date": "2026-08-09",
+     "price": 1290
+    }
+   ],
+   "UWANT IL": [
+    {
+     "date": "2026-07-29",
+     "price": 999
+    },
+    {
+     "date": "2026-08-02",
+     "price": 999
+    },
+    {
+     "date": "2026-08-03",
+     "price": 999
+    },
+    {
+     "date": "2026-08-09",
+     "price": 999
+    }
+   ]
+  }
+ }
+}

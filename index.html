@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>דוח ניטור מחירי UWANT</title>
+<meta name="description" content="השוואת מחירים חיה של מוצרי UWANT מול המתחרים בישראל">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-mark"><img src="./assets/uwant-logo-black.png" alt="UWANT"></div>
+      <div class="brand-text">
+        <h1>דוח ניטור מחירי UWANT</h1>
+        <p class="subtitle">השוואת מחירים חיה מול המתחרים בישראל</p>
+      </div>
+    </div>
+    <div class="header-meta" id="header-meta">
+      <div class="meta-item">
+        <span class="meta-label">עודכן לאחרונה</span>
+        <span class="meta-value" id="updated-at">טוען…</span>
+      </div>
+      <button class="btn btn-primary" id="download-xlsx" type="button">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3v12m0 0l-4-4m4 4l4-4M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        הורדת דוח XLSX
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="dashboard" aria-label="דשבורד סיכום">
+    <div class="dashboard-kpis" id="dashboard-kpis"></div>
+    <div id="risk-panel"></div>
+    <p class="section-label">כיסוי לפי אתר</p>
+    <div class="stats-strip" id="stats-strip" aria-label="סטטיסטיקות כיסוי לפי אתר"></div>
+  </section>
+
+  <section class="controls" aria-label="חיפוש, מיון וסינון">
+    <div class="control-group">
+      <label class="visually-hidden" for="search-input">חיפוש דגם</label>
+      <div class="search-box">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="M21 21l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input type="search" id="search-input" placeholder="חיפוש דגם… (למשל D700 או Y100)" autocomplete="off">
+      </div>
+    </div>
+    <div class="control-group control-group-sites">
+      <label>השוואה מול UWANT (ניתן לבחור כמה אתרים; ללא בחירה = הכל)</label>
+      <div class="site-chip-group" id="site-chip-group"></div>
+    </div>
+    <div class="control-group">
+      <label for="stock-filter">סינון לפי מלאי</label>
+      <select id="stock-filter">
+        <option value="">הכל</option>
+        <option value="instock">רק דגמים שבמלאי אצל UWANT</option>
+        <option value="warn">רק דגמים שבהם UWANT אינו הזול ביותר</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="sort-select">מיון</label>
+      <select id="sort-select">
+        <option value="default">לפי קטגוריה (ברירת מחדל)</option>
+        <option value="name">לפי שם דגם (א-ת)</option>
+        <option value="cheapest">לפי המחיר הזול ביותר</option>
+        <option value="priciest">לפי המחיר היקר ביותר</option>
+        <option value="warn-first">UWANT לא הכי זול קודם</option>
+      </select>
+    </div>
+    <div class="control-group control-group-count">
+      <span id="result-count" class="result-count"></span>
+    </div>
+  </section>
+
+  <section class="legend" aria-label="מקרא">
+    <span class="legend-item"><i class="dot dot-min"></i> המחיר הזול ביותר בשורה</span>
+    <span class="legend-item"><i class="dot dot-max"></i> המחיר היקר ביותר בשורה</span>
+    <span class="legend-item"><i class="dot dot-na"></i> המוצר לא נמצא באתר</span>
+  </section>
+
+  <section class="table-section" aria-label="טבלת השוואת מחירים">
+    <div class="table-scroll">
+      <table id="compare-table">
+        <thead id="compare-thead"></thead>
+        <tbody id="compare-tbody"></tbody>
+      </table>
+    </div>
+    <p class="empty-state" id="empty-state" hidden>לא נמצאו דגמים התואמים לחיפוש/סינון הנוכחי.</p>
+  </section>
+
+  <section class="history-section" aria-label="היסטוריית מחירים">
+    <div class="section-header">
+      <h2>היסטוריית מחירים</h2>
+      <div class="history-controls">
+        <label for="history-model-select">דגם:</label>
+        <select id="history-model-select"></select>
+      </div>
+    </div>
+    <div id="history-chart-wrap"><p class="hint-text">בחרו דגם להצגת גרף מגמת המחירים לאורך זמן.</p></div>
+  </section>
+
+  <section class="extras-section" aria-label="מוצרי UWANT נוספים">
+    <div class="section-header">
+      <h2>מוצרי UWANT נוספים</h2>
+      <p class="section-hint">אביזרים ודגמים נוספים של UWANT שאינם ברשימת הדגמים הפעילים המושווית למעלה.</p>
+    </div>
+    <div class="table-scroll">
+      <table id="extras-table">
+        <thead>
+          <tr>
+            <th>אתר</th>
+            <th>דגם / מוצר</th>
+            <th>שם מוצר</th>
+            <th>מחיר</th>
+            <th>מלאי</th>
+            <th>קישור</th>
+          </tr>
+        </thead>
+        <tbody id="extras-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>הנתונים נאספים מדפי מוצר חיים באתרי המתחרים ומעודכנים בכל הפקת דוח חדשה. אין באתר זה כדי להוות ייעוץ כלשהו — יש לוודא מחיר וזמינות סופיים באתר המוכר.</p>
+</footer>
+<div class="footer-signature">בוצע על ידי <b>ניר ג'ון ברגר</b></div>
+
+<script src="./app.js"></script>
+</body>
+</html>
