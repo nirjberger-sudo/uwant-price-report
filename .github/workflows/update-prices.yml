@@ -1,0 +1,42 @@
+name: Update UWANT prices
+
+on:
+  workflow_dispatch: {}   # triggered by the "עדכן דוח" button on the site (via GitHub API)
+  schedule:
+    - cron: "0 6 * * 0,2,4"  # 06:00 UTC = 09:00 Asia/Jerusalem, Sun/Tue/Thu — same cadence as before, now actually able to push
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run live price check
+        run: python scripts/live_update.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "uwant-price-bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet -- data/data.json; then
+            echo "No changes."
+          else
+            git add data/data.json
+            git commit -m "עדכון מחירים אוטומטי: $(date -u +%Y-%m-%d)"
+            git push
+          fi

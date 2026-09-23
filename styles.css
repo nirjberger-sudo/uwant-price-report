@@ -143,6 +143,14 @@ a{color:var(--orange-dark)}
 .btn:active{transform:translateY(1px)}
 .btn-primary{background:var(--orange);color:#fff}
 .btn-primary:hover{background:var(--orange-dark);box-shadow:var(--shadow)}
+.btn-outline{background:transparent;color:#fff;border-color:rgba(255,255,255,.4)}
+.btn-outline:hover{border-color:var(--orange);color:var(--orange)}
+.update-status{
+  max-width:1480px;margin:6px auto 0;padding:0 20px;font-size:12.5px;
+  color:rgba(255,255,255,.85);min-height:1.4em;
+}
+.update-status.success{color:#7be08a}
+.update-status.error{color:#ff8a8a}
 
 /* ---------- layout ---------- */
 .container{max-width:1480px;margin:0 auto;padding:22px 20px 40px}
